@@ -1,0 +1,12 @@
+mysql://f670f53gk7hci8ax:gepqk97mza1sstf9@x71wqc4m22j8e3ql.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/u8ovcl7z16y75h7n
+
+
+username f670f53gk7hci8ax
+password gepqk97mza1sstf9
+url jdbc:mysql://f670f53gk7hci8ax:gepqk97mza1sstf9@x71wqc4m22j8e3ql.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/u8ovcl7z16y75h7n
+
+SPRING_DATASOURCE_URL
+SPRING_DATASOURCE_USERNAME
+SPRING_DATASOURCE_PASSWORD
+
+mysql://bbb2e7c1f416c1:ea2d190b@us-cdbr-east-06.cleardb.net/heroku_610234eb1170e95?reconnect=true
